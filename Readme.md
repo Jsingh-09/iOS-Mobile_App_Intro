@@ -1,7 +1,7 @@
 # iOS-Mobile_App
 
 # App Description
-This is an iOS app that is built by using X-code available on Macintosh. This app has all the required and Optional User Stories. The required user stories included when the app is opened the user sees a text in a label - Hello from Jashan! Along with that, the user sees Custom background color and can tap on the button to change the text color of the label. The optional user stories included features that can change the color of the background view, the text string of the label, reset all views to default settings, and update the label text with the custom text entered into the text field.
+This is an iOS app that is built by using X-code available on Macintosh. This app has all the required and Optional task assigned by CodePath. The required user stories included when the app is opened the user sees a text in a label - Hello from Jashan! Along with that, the user sees Custom background color and can tap on the button to change the text color of the label. The optional user stories included features that can change the color of the background view, the text string of the label, reset all views to default settings, and update the label text with the custom text entered into the text field.
 
 # App Walk-though
 
